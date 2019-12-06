@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QQL.iml" filepath="$PROJECT_DIR$/QQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomExceptionProject.iml" filepath="$PROJECT_DIR$/CustomExceptionProject.iml" />
     </modules>
   </component>
 </project>
