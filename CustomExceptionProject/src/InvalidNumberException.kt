@@ -1,0 +1,1 @@
+class InvalidNumberException(message: String) : Exception(message)
